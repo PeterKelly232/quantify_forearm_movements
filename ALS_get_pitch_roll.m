@@ -1,6 +1,6 @@
 function [pitch,roll] = ALS_get_pitch_roll(data_trimmed, df)
 % note negative sign in "roll formula"
-% formula valid for Actigraph Watch Link
+% formula valid for Actigraph Watch Link placed on the left wrist with a default placement and orientation (as in a smartwatch) 
 
 data_trimmed = data_trimmed(:, 1:3);
 
