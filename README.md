@@ -14,9 +14,8 @@ The proposed metrics were validated clinically using data from twenty ALS patien
 
 ## How to use
 1. Download all files to your workstation and add them to your MATLAB search path.
-2. .
-3. Run .m as described in function description.
-
+2. Run forearm_movements.m with three-axial accelerometer <data> collected with sampling frequency <fs> as input.
+3. Note that the code was designed for data collected with ActiGraph Insight Watch. Change the formulas to calculate pitch and roll according to the coordinate system of your wearable device. 
 
 ## Reference
 
