@@ -19,7 +19,7 @@ The proposed metrics were validated clinically using data from twenty ALS patien
 
 ## Reference
 
-Straczkiewicz, M., Karas, M., Johnson S.A., Burke, K.M., Scheier, Z., Royse, T.B., Calcagno N., Clark, A., Iyer, A., Berry, J.D., Onnela, JP. A “one-size-fits-most” walking recognition method for smartphones, smartwatches, and wearable accelerometers. eBioMedicine (2024), 101: 105036
+Straczkiewicz, M., Karas, M., Johnson S.A., Burke, K.M., Scheier, Z., Royse, T.B., Calcagno N., Clark, A., Iyer, A., Berry, J.D., Onnela, JP. Upper limb movements as digital biomarkers in people with ALS. eBioMedicine (2024), 101: 105036
 https://doi.org/10.1016/j.ebiom.2024.105036
 
 Open Access: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00071-9/fulltext
