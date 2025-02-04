@@ -11,3 +11,7 @@ data_filtered(data_filtered < -1) = -1;
 
 pitch = atan2d(-data_filtered(:, 2), sqrt(data_filtered(:, 1).^2 + data_filtered(:, 3).^2));
 roll = atan2d(data_filtered(:, 1), data_filtered(:, 3));
+
+% email 25 Sep 2024
+pitch = atan2d(-data_filtered(:, 2), sqrt(data_filtered(:, 1).^2 + data_filtered(:, 3).^2));
+roll = atan2d(data_filtered(:, 1), -data_filtered(:, 3));
