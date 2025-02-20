@@ -67,7 +67,7 @@ function varargout = RunLength(varargin)
 % Initialize: ==================================================================
 % Do the work: =================================================================
 
-% [varargout{1:nargout}] = RunLength_M(varargin{:}); return;
+[varargout{1:nargout}] = RunLength_M(varargin{:}); return;
 
 % This is a dummy code only, which compiles the C-function automatically:
 Ok = InstallMex('RunLength.c', 'uTest_RunLength');
